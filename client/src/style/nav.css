@@ -1,0 +1,3 @@
+.navLink {
+  @apply text-2xl font-bold hover:text-slate-300 transition-all focus:text-slate-500;
+}
