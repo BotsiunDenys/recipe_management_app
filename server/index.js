@@ -17,7 +17,7 @@ app.use(cookieParser());
 app.use(
   cors({
     credentials: true,
-    origin: "https://recipe-management-40dcxq82h-botsyundenys.vercel.app",
+    origin: "https://recipe-management-app-tawny.vercel.app",
   })
 );
 app.use("/auth", AuthRouter);

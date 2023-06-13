@@ -1,5 +1,6 @@
 # Test task for Luna Edge
-[Recipe management app](https://recipe-management-40dcxq82h-botsyundenys.vercel.app)
+First auth loading may be long: about 30-40 seconds. It causes hosting service 'feature'.
+[Recipe management app](https://recipe-management-app-tawny.vercel.app)
 
 ## Description
 Since time is limited, not all reqiored functional was created. For completing this test task i had spent about 6 hours (with deployment). 
